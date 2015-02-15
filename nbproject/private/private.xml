@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/tests/Model/UserDatabaseFinderFunctionnalTest.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/Http/JsonResponse.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/Http/Request.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/Model/StatusesMapperInMemory.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/tests/Model/StatusesDatabaseFinderTest.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/app/app.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/Model/User.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/tests/Routing/RouteTest.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/Model/Connection.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/app/templates/register.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/Model/Status.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/tests/Model/UserMapperDatabaseTest.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/tests/TestCase.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/tests/API/ApiFunctionnalTest.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/App.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/Model/StatusesFinderInterface.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/Controller/ControllerStatuses.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/tests/Model/StatusesMapperDatabaseTest.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/Exception/UnexistUserException.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/Model/StatusesDatabaseFinder.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/Exception/UnexistStatusException.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/phpunit.xml.dist</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/app/templates/statusById.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/Model/UserDatabaseFinder.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/Model/StatusesMapperInterface.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/web/index.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/tests/AppTest.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/Model/Criteria.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/tests/Model/StatusesMapperDatabaseFunctionnalTest.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/Model/StatusesMapperJson.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/Controller/ControllerUsers.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/tests/bootstrap.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/Model/UserMapperInterface.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/Model/StatusesJsonFinder.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/Model/StatusesMapperDatabase.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/Model/UserFinderInterface.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/app/config/schema.sql</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/app/templates/statuses.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/Http/Response.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/Model/UserMapperDatabase.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/tests/Model/UserMapperDatabaseFunctionnalTest.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/Model/StatusesInMemoryFinder.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/tests/Model/StatusesDatabaseFinderFunctionnalTest.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/app/templates/login.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/src/Model/MockConnection.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/app/templates/index.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/tests/View/TemplateEngineTest.php</file>
+            <file>file:/usr/local/licphp/workspace/vm-stnunes/projects/uframework/tests/Model/UserDatabaseFinderTest.php</file>
+        </group>
+    </open-files>
+</project-private>
